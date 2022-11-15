@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+	<head>
+		<title>4D Web Server Welcome Page</title>
+	    <style type="text/css">
+<!--
+h2 {
+	font: 16px Verdana, Arial, Helvetica, sans-serif;
+}
+p {
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+}
+-->
+        </style>
+	</head>
+
+	<body bgcolor="#ffffff">
+		
+    <!--#4DTEXT Current Time--><br>
+
+    <!--#4DCODE 
+      ALL RECORDS ([EVENEMENT])
+    -->
+
+    <!--#4DSCRIPT/web_load_evenements-->
+
+    <!--#4DTEXT Records in selection ([EVENEMENT])--> établissements.<br>
+
+    <!--#4DLOOP [EVENEMENT]-->
+      <a href="/etablissement.shtml?id=$4DTEXT([EVENEMENT]ID)"><!--#4DTEXT [EVENEMENT]Libelle--></a><br>
+    <!--#4DENDLOOP [EVENEMENT]-->
+	</body>
+
+</html>

@@ -1,0 +1,152 @@
+{
+	"Trash/Methods/(tests_Legacy).4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/method.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/[EVENEMENT]Nom.4dm": {
+		"left": -36,
+		"top": 109,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Nom.4dm": {
+		"left": 6,
+		"top": 112,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/libelle.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton1.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton2.4dm": {
+		"left": -38,
+		"top": 307,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/load_evenement.4dm": {
+		"left": 286,
+		"top": 209,
+		"width": 1043,
+		"height": 519
+	},
+	"Sources/Methods/launch_etablissements.4dm": {
+		"left": -77,
+		"top": 231,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/afficher_dialogue_EVENT.4dm": {
+		"left": 18,
+		"top": 205,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton3.4dm": {
+		"left": 340,
+		"top": 158,
+		"width": 965,
+		"height": 602
+	},
+	"Sources/Methods/activate_modification_ETAB.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr.4dm": {
+		"left": 340,
+		"top": 158,
+		"width": 965,
+		"height": 602
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr1.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_suppr1.4dm": {
+		"left": 0,
+		"top": 89,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box1.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/load_Boutique.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie3.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie1.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/activate_modification_ETAB_B.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_suppr_B.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr_B.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	}
+}

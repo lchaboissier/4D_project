@@ -1,0 +1,74 @@
+{
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton2.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box1.4dm": {
+		"left": 0,
+		"top": 167,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_suppr_B.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr_B.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton1.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton3.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Methods/web_load_evenements.4dm": {
+		"left": 0,
+		"top": 78,
+		"width": 1920,
+		"height": 931
+	},
+	"Sources/Methods/web_init_evenements.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 1920,
+		"height": 931
+	}
+}

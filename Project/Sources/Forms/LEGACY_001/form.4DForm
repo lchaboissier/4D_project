@@ -1,0 +1,304 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"List Box": {
+					"type": "listbox",
+					"left": 23,
+					"top": 15,
+					"width": 498,
+					"height": 325,
+					"events": [
+						"onClick",
+						"onHeaderClick",
+						"onDataChange",
+						"onSelectionChange"
+					],
+					"staticColumnCount": 1,
+					"listboxType": "currentSelection",
+					"table": "EVENEMENT",
+					"method": "ObjectMethods/List Box.4dm",
+					"columns": [
+						{
+							"header": {
+								"text": "Nom",
+								"name": "Nom1"
+							},
+							"name": "libelle",
+							"footer": {
+								"name": "Pied1"
+							},
+							"width": 156,
+							"method": "ObjectMethods/libelle.4dm",
+							"dataSource": "[EVENEMENT:1]Libelle:2"
+						},
+						{
+							"header": {
+								"name": "Debut",
+								"text": "Debut"
+							},
+							"name": "Date_Debut",
+							"footer": {
+								"name": "Pied2"
+							},
+							"width": 168,
+							"dataSource": "[EVENEMENT:1]Date_Debut:3"
+						},
+						{
+							"header": {
+								"name": "Fin",
+								"text": "Fin"
+							},
+							"name": "Date_Fin",
+							"footer": {
+								"name": "Pied3"
+							},
+							"width": 150,
+							"dataSource": "[EVENEMENT:1]Date_Fin:4"
+						}
+					]
+				},
+				"Zone de saisie": {
+					"type": "input",
+					"left": 667,
+					"top": 117,
+					"width": 182,
+					"height": 32,
+					"dataSource": "[EVENEMENT:1]Libelle:2",
+					"method": "ObjectMethods/Zone de saisie.4dm"
+				},
+				"Zone de saisie1": {
+					"type": "input",
+					"left": 667,
+					"top": 161,
+					"width": 182,
+					"height": 32,
+					"dataSourceTypeHint": "date",
+					"dataSource": "[EVENEMENT:1]Date_Debut:3",
+					"method": "ObjectMethods/Zone de saisie1.4dm"
+				},
+				"Bouton": {
+					"type": "button",
+					"text": "Nouveau",
+					"top": 76,
+					"left": 667,
+					"width": 182,
+					"height": 21,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Bouton.4dm"
+				},
+				"Texte": {
+					"type": "text",
+					"text": "Nom\r",
+					"top": 117,
+					"left": 553,
+					"width": 61,
+					"height": 15
+				},
+				"Texte1": {
+					"type": "text",
+					"text": "Début",
+					"top": 161,
+					"left": 552,
+					"width": 50,
+					"height": 15
+				},
+				"Texte2": {
+					"type": "text",
+					"text": "Fin\r",
+					"top": 206,
+					"left": 552,
+					"width": 39,
+					"height": 15
+				},
+				"Zone de saisie2": {
+					"type": "input",
+					"left": 667,
+					"top": 206,
+					"width": 182,
+					"height": 32,
+					"dataSourceTypeHint": "date",
+					"dataSource": "[EVENEMENT:1]Date_Fin:4"
+				},
+				"btn_enr": {
+					"type": "button",
+					"text": "Enregistrer",
+					"top": 252,
+					"left": 667,
+					"width": 106,
+					"height": 27,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/btn_enr.4dm"
+				},
+				"btn_suppr": {
+					"type": "button",
+					"text": "Supprimer",
+					"top": 252,
+					"left": 787,
+					"width": 106,
+					"height": 27,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/btn_suppr.4dm"
+				},
+				"Bouton3": {
+					"type": "button",
+					"text": "Modifier",
+					"top": 15,
+					"left": 527,
+					"width": 182,
+					"height": 30,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Bouton3.4dm"
+				},
+				"List Box1": {
+					"type": "listbox",
+					"left": 23,
+					"top": 360,
+					"width": 498,
+					"height": 336,
+					"events": [
+						"onClick",
+						"onHeaderClick",
+						"onDataChange",
+						"onSelectionChange"
+					],
+					"borderStyle": "solid",
+					"listboxType": "currentSelection",
+					"table": "BOUTIQUE",
+					"method": "ObjectMethods/List Box1.4dm",
+					"columns": [
+						{
+							"header": {
+								"text": "Boutique",
+								"name": "Boutique"
+							},
+							"name": "Nom",
+							"footer": {
+								"name": "Pied4"
+							},
+							"dataSource": "[BOUTIQUE:4]Nom:2"
+						}
+					]
+				},
+				"Zone de saisie3": {
+					"type": "input",
+					"left": 671,
+					"top": 438,
+					"width": 178,
+					"height": 16,
+					"dataSource": "[BOUTIQUE:4]Nom:2",
+					"method": "ObjectMethods/Zone de saisie3.4dm"
+				},
+				"btn_enr_B": {
+					"type": "button",
+					"text": "Enregistrer",
+					"top": 465,
+					"left": 671,
+					"width": 70,
+					"height": 27,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/btn_enr_B.4dm"
+				},
+				"btn_suppr_B": {
+					"type": "button",
+					"text": "Supprimer",
+					"top": 465,
+					"left": 779,
+					"width": 70,
+					"height": 27,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/btn_suppr_B.4dm"
+				},
+				"Bouton1": {
+					"type": "button",
+					"text": "Nouveau",
+					"top": 405,
+					"left": 671,
+					"width": 178,
+					"height": 21,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Bouton1.4dm"
+				},
+				"Bouton2": {
+					"type": "button",
+					"text": "Modifier",
+					"top": 360,
+					"left": 527,
+					"width": 178,
+					"height": 25,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Bouton2.4dm"
+				},
+				"Texte3": {
+					"type": "text",
+					"text": "Nom\r",
+					"top": 438,
+					"left": 588,
+					"width": 78,
+					"height": 15
+				}
+			}
+		}
+	],
+	"geometryStamp": 232,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	},
+	"method": "method.4dm",
+	"inheritedFormTable": "EVENEMENT",
+	"menuBar": "Barre #1"
+}

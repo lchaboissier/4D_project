@@ -1,0 +1,42 @@
+{
+	"methods": {
+		"activate_modification_ETAB": {
+			"timeStamp": "2022-11-15T07:25:11Z"
+		},
+		"activate_modification_ETAB_B": {
+			"timeStamp": "2022-11-15T07:25:11Z"
+		},
+		"afficher_dialogue_EVENT": {
+			"timeStamp": "2022-11-15T07:25:11Z"
+		},
+		"launch_etablissements": {
+			"timeStamp": "2022-11-15T07:25:11Z"
+		},
+		"load_Boutique": {
+			"timeStamp": "2022-11-15T07:25:11Z"
+		},
+		"load_evenement": {
+			"timeStamp": "2022-11-15T07:25:11Z"
+		},
+		"web_init_evenements": {
+			"timeStamp": "2022-11-15T08:55:58Z",
+			"attributes": {
+				"publishedWeb": true,
+				"publishedSoap": true
+			}
+		},
+		"web_load_evenements": {
+			"timeStamp": "2022-11-15T08:43:41Z",
+			"attributes": {
+				"publishedWeb": true,
+				"publishedSoap": true
+			}
+		},
+		"(activate_modification_ETAB2)": {
+			"timeStamp": "2022-11-15T07:25:11Z"
+		},
+		"(tests_Legacy)": {
+			"timeStamp": "2022-11-15T07:25:12Z"
+		}
+	}
+}

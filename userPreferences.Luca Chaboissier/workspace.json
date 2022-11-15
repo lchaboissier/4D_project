@@ -1,0 +1,33 @@
+{
+	"editors": [
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483636,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "web_init_evenements"
+			}
+		},
+		{
+			"type": "form",
+			"id": 783,
+			"formName": "LEGACY_001"
+		},
+		{
+			"type": "toolbox"
+		},
+		{
+			"type": "method",
+			"id": 2147483638,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "LEGACY_001",
+				"objectName": "List Box1",
+				"methodPath": "/SOURCES/Forms/LEGACY_001/ObjectMethods/List Box1.4dm"
+			}
+		}
+	]
+}

@@ -1,0 +1,227 @@
+{
+	"Trash/Methods/(tests_Legacy).4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T11:05:54.091Z"
+	},
+	"Sources/Forms/LEGACY_001/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T14:23:31.508Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/[EVENEMENT]Nom.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T13:57:27.700Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Nom.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T14:00:10.224Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/libelle.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T14:27:32.841Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton.4dm": {
+		"startSelection": 32,
+		"endSelection": 32,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T15:52:17.594Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton1.4dm": {
+		"startSelection": 30,
+		"endSelection": 30,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:27:42.211Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box.4dm": {
+		"startSelection": 0,
+		"endSelection": 55,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:10:39.104Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton2.4dm": {
+		"startSelection": 34,
+		"endSelection": 34,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:27:32.679Z"
+	},
+	"Sources/Methods/load_evenement.4dm": {
+		"startSelection": 29,
+		"endSelection": 29,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T15:17:05.140Z"
+	},
+	"Sources/Methods/launch_etablissements.4dm": {
+		"startSelection": 38,
+		"endSelection": 38,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T15:28:04.018Z"
+	},
+	"Sources/Methods/afficher_dialogue_EVENT.4dm": {
+		"startSelection": 20,
+		"endSelection": 20,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T15:36:24.112Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton3.4dm": {
+		"startSelection": 32,
+		"endSelection": 32,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T15:53:06.386Z"
+	},
+	"Sources/Methods/activate_modification_ETAB.4dm": {
+		"startSelection": 45,
+		"endSelection": 45,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:00:25.540Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T15:53:33.784Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr1.4dm": {
+		"startSelection": 13,
+		"endSelection": 13,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:28:02.713Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_suppr1.4dm": {
+		"startSelection": 13,
+		"endSelection": 13,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:28:19.582Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:24:38.422Z"
+	},
+	"Sources/Methods/load_Boutique.4dm": {
+		"startSelection": 38,
+		"endSelection": 38,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:25:36.801Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie3.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:27:44.782Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:27:46.982Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:30:53.824Z"
+	},
+	"Sources/Methods/activate_modification_ETAB_B.4dm": {
+		"startSelection": 47,
+		"endSelection": 47,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:32:47.693Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_suppr_B.4dm": {
+		"startSelection": 13,
+		"endSelection": 13,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:28:19.582Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr_B.4dm": {
+		"startSelection": 55,
+		"endSelection": 55,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-14T16:45:45.605Z"
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"editors": [
+		{
+			"type": "form",
+			"id": 220,
+			"formName": "LEGACY_001"
+		},
+		{
+			"type": "method",
+			"id": 2147483634,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "LEGACY_001",
+				"objectName": "btn_suppr1",
+				"methodPath": "/SOURCES/Forms/LEGACY_001/ObjectMethods/btn_suppr_B.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483633,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "LEGACY_001",
+				"objectName": "Bouton1",
+				"methodPath": "/SOURCES/Forms/LEGACY_001/ObjectMethods/Bouton1.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483642,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "LEGACY_001",
+				"objectName": "Bouton",
+				"methodPath": "/SOURCES/Forms/LEGACY_001/ObjectMethods/Bouton.4dm"
+			}
+		}
+	]
+}

@@ -1,0 +1,110 @@
+{
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton2.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.577Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Zone de saisie.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.761Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.537Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box1.4dm": {
+		"startSelection": 28,
+		"endSelection": 28,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:46:55.089Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_suppr_B.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.683Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr_B.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.637Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.723Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.556Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.617Z"
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton3.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T07:25:11.596Z"
+	},
+	"Sources/Methods/web_load_evenements.4dm": {
+		"startSelection": 43,
+		"endSelection": 43,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T08:43:41.741Z"
+	},
+	"Sources/Methods/web_init_evenements.4dm": {
+		"startSelection": 52,
+		"endSelection": 52,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-15T08:55:58.555Z"
+	}
+}

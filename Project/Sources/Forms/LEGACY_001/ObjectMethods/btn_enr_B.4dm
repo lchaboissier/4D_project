@@ -1,0 +1,5 @@
+QUERY:C277([BOUTIQUE:4]; [BOUTIQUE:4]ID_EVENEMENT:3=[EVENEMENT:1]ID:1)
+SAVE RECORD:C53([BOUTIQUE:4])
+
+activate_modification_ETAB_B(False:C215)
+load_Boutique
